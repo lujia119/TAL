@@ -1,6 +1,9 @@
 # TAL
  TAL coding test
-area of improvements as below
+ 
+Data file: The data file is saved as \Data\RoomBooking.txt. Please update the hardcoded file path in DBIO_Booking.vb before running the application.
+
+Area of improvements as below
 1. Database tables should be used to save the data instead of using file input/output
 2. I would create couple more tables to make this application more like a real-life app. 
    [Table Room] (RoomID, Room Description)
